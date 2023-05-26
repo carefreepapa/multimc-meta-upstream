@@ -1,1 +1,15 @@
 *.jar
+
+fabric/
+liteloader/
+quilt/
+
+mojang/assets/
+mojang/version_manifest.json
+
+forge/files_manifests/
+forge/installer_manifests/
+forge/version_manifests/
+forge/maven-metadata.json
+forge/derived_index.json
+
